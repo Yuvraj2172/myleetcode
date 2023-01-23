@@ -1,5 +1,10 @@
 class Solution {
 public:
+    Solution()
+    {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+    }
     int findJudge(int n, vector<vector<int>>& trust) {
         unordered_map<int, int> mp;
         for(auto it : trust){
