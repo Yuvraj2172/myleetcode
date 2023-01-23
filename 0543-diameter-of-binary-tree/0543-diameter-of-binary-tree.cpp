@@ -1,10 +1,10 @@
 
 class Solution {
 public:
-    // Solution(){
-    //     ios_base::sync_with_stdio(false);
-    //     cin.tie(NULL);
-    // }
+    Solution(){
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+    }
     int height(TreeNode* root){
     if(root == NULL)return 0;
     return 1 + max(height(root->left) , height(root->right));
