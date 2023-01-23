@@ -5,16 +5,27 @@ public:
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
     }
-    int height(TreeNode* root){
-    if(root == NULL)return 0;
-    return 1 + max(height(root->left) , height(root->right));
+    pair<int,int> helper(TreeNode* root){
+        if(root == NULL){
+        pair<int, int> p ;
+            p.first = 0;
+            p.second = 0;
+            return p;
         }
+        pair<int, int> leftAns = helper(root->left);
+        pair<int, int> rightAns = helper(root->right);
+        int lh = leftAns.first;
+        int rh = rightAns.first;
+        int ld = leftAns.second;
+        int rd= rightAns.second;
+        int height = 1 + max(lh, rh);
+        int diameter = max(lh+ rh , max(ld , rd));
+        pair<int,int> ans;
+        ans.first = height;
+        ans.second = diameter;
+        return ans;
+    }
     int diameterOfBinaryTree(TreeNode* root) {
-        if(root == NULL)return 0;
-        int option1 = height(root->left) + height(root->right);
-        int option2 = diameterOfBinaryTree(root->left);
-        int option3 = diameterOfBinaryTree(root->right);
-        int temp = max(option1 , option2);
-        return max(temp , option3);
+       return helper(root).second;
     }
 };
