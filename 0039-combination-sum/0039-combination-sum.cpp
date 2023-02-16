@@ -4,6 +4,7 @@ public:
         if(ind == arr.size()){
             if(target==0){
                 ans.push_back(temp);
+                return;
             }
              return;
         }
