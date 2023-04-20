@@ -6,7 +6,7 @@ public:
         vector<vector<int>> ans;
         vector<int> first = intervals[0];
         int start = first[0]; int end = first[1];
-        for(int i=1;i<intervals.size();i++){
+        for(int i=0;i<intervals.size();i++){
             vector<int> current = intervals[i];
             if(current[0] <= end){
                 end = max(current[1], end);
