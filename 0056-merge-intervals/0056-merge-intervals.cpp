@@ -5,20 +5,20 @@ public:
         sort(intervals.begin(), intervals.end());
         vector<vector<int>> ans;
         vector<int> first = intervals[0];
-        int start = first[0]; int end = first[1];
-        for(int i=0;i<intervals.size();i++){
+        int start = first[0], last = first[1];
+        
+        for(int i=0; i< n; i++){
             vector<int> current = intervals[i];
-            if(current[0] <= end){
-                end = max(current[1], end);
+            if(current[0] <= last){
+                last = max( current[1], last);
             }
             else {
-                ans.push_back({start , end});
+                ans.push_back( {start , last});
                 start = current[0];
-                end = current[1];
+                last = current[1];
             }
-            
         }
-        ans.push_back({start , end});
+        ans.push_back({start, last});
         return ans;
     }
 };
