@@ -1,14 +1,22 @@
+
 class Solution {
 public:
-    vector<int> traversal;
-    void helper(TreeNode* root){
+    
+    void helper(TreeNode* root , int& ans , int& k){
         if(root == NULL)return;
-        helper(root->left);
-        traversal.push_back(root->val);
-        helper(root->right);
+        helper(root->left, ans , k);
+         k--;
+        if(k==0){
+            ans = root->val;
+            return ;
+        }
+       
+        helper(root->right , ans ,k);
     }
     int kthSmallest(TreeNode* root, int k) {
-        helper(root);
-        return traversal[k-1];
+        int ans =0;
+        int cnt =0;
+        helper(root , ans , k);
+        return ans;
     }
 };
