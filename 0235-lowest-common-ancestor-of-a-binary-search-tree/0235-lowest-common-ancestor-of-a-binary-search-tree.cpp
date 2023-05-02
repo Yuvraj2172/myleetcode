@@ -14,16 +14,16 @@ public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         vector<int> path1 ;
         vector<int> path2;
-        
-        if(!findPath(root , path1 , p) || !findPath(root , path2 , q))return new TreeNode(-1);
+        findPath(root , path1, p);
+        findPath(root, path2 , q);
         int i;
-        for(i =0 ; i < path1.size() && i <  path2.size() ; i++){
+        for(i =0 ; i < path1.size()&& i <  path2.size() ; i++){
             if(path1[i]!=path2[i]){
-                return new TreeNode(path1[i-1]);
-               break;
+                // return new TreeNode(path1[i-1]);
+                break;
+                // cout<<path1[i-1]<<"This is the LCA";
             }
         }
-    
         return new TreeNode(path1[i-1]);
     }
 };
