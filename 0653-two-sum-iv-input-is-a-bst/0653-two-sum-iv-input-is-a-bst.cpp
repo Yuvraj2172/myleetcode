@@ -1,32 +1,21 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    void helper(TreeNode* root , vector<int>& ans){
+    void helper(TreeNode* root , vector<int>& traversal){
         if(!root)return;
-        helper(root->left, ans);
-        ans.push_back(root->val);
-        helper(root->right , ans);
+        helper(root->left , traversal);
+        traversal.push_back(root->val);
+        helper(root->right , traversal);
     }
     bool findTarget(TreeNode* root, int k) {
         vector<int> traversal;
         helper(root , traversal);
-        int n = traversal.size();
-        for(int i=0; i < n-1 ; i++){
-            for(int j = i+1;j < n;j++){
-                if(traversal[i] + traversal[j] == k)return 1;
-            }
+        int start =0;
+        int end = traversal.size()-1;
+        while(start< end){
+            if(traversal[start] + traversal[end] == k)return 1;
+            else if(traversal[start] + traversal[end] > k)end--;
+            else start++;
         }
-     return 0;
+        return 0;
     }
-   
 };
