@@ -1,31 +1,13 @@
-class Solution {
+class Solution{
 public:
-    int length(ListNode* head){
-        int len=0;
-        while(head){
-            head = head->next;
-            len++;
-        }
-        return len;
-    }
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        int l1 = length(headA);
-        int l2 = length(headB);
-        bool larger=0;
-        if(l1>l2){
-            larger = 1;
+        ListNode* d1 = headA;
+        ListNode* d2 = headB;
+        while(1){
+            if(d1 == d2)return d1;
+            d1= d1==NULL ? headB : d1->next;
+            d2 =d2==NULL ? headA : d2->next;
         }
-        int diff = abs(l1-l2);
-        if(larger){
-            for(int i=0;i<diff;i++)headA = headA->next;
-        }
-        else{
-            for(int i=0;i<diff;i++)headB = headB->next;
-        }
-        while(headA!=headB){
-            headA= headA->next;
-            headB = headB->next;
-        }
-        return headA;
+        return NULL;
     }
 };
