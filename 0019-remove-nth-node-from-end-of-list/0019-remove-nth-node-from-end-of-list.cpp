@@ -5,9 +5,8 @@ public:
         ListNode* dummy = new ListNode(0);
         dummy -> next = head;
         ListNode* fast = dummy ;
-        while(n!=0){
+        while(n--){
             fast = fast->next;
-            n--;
         }
         ListNode* slow = dummy;
         while(fast->next){
