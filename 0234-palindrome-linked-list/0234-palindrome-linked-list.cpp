@@ -13,7 +13,7 @@ public:
         return prev;
     }
     bool isPalindrome(ListNode* head) {
-        if(!head || !head->next)return 1;
+        // if(!head || !head->next)return 1;
         ListNode* slow = head;
         ListNode* fast = head;
         
