@@ -1,34 +1,34 @@
 class Solution {
 public:
+    //reverses a linked list
     ListNode* reverse(ListNode* head){
-        ListNode* pre = NULL;
+        ListNode* prev = NULL;
         ListNode* next = NULL;
         while(head){
             next = head->next;
-            head->next = pre;
-            pre = head ;
+            head->next = prev;
+            prev = head;
             head = next;
         }
-        return pre;
+        return prev;
     }
     bool isPalindrome(ListNode* head) {
         if(!head || !head->next)return 1;
         ListNode* slow = head;
         ListNode* fast = head;
-        while(fast->next && fast->next->next){
+        
+        // Middle of the list
+         while(fast->next && fast->next->next){ 
             slow = slow->next;
-            fast = fast->next->next;
+            fast = fast->next ->next;
         }
-        slow->next = reverse(slow->next);
+        
+        slow -> next = reverse(slow->next);
         slow = slow->next;
         while(slow){
-            if(head->val != slow->val){
-                return false;
-            }
-            head = head->next;
-            slow = slow ->next;
+            if(head->val != slow->val)return 0;
+            slow = slow ->next  ; head = head->next;
         }
         return 1;
-        
     }
 };
