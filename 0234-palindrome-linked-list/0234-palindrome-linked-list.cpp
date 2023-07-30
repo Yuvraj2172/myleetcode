@@ -1,14 +1,34 @@
 class Solution {
 public:
-    bool isPalindrome(ListNode* head) {
-        vector<int> v;
+    ListNode* reverse(ListNode* head){
+        ListNode* pre = NULL;
+        ListNode* next = NULL;
         while(head){
-            v.push_back(head->val);
-            head = head->next;
+            next = head->next;
+            head->next = pre;
+            pre = head ;
+            head = next;
         }
-        for(int i=0;i<v.size()/2; i++){
-            if(v[i]!= v[v.size() -1 -i])return 0;
+        return pre;
+    }
+    bool isPalindrome(ListNode* head) {
+        if(!head || !head->next)return 1;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(fast->next && fast->next->next){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        slow->next = reverse(slow->next);
+        slow = slow->next;
+        while(slow){
+            if(head->val != slow->val){
+                return false;
+            }
+            head = head->next;
+            slow = slow ->next;
         }
         return 1;
+        
     }
 };
