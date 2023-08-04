@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<int> weights;
-    int size;
-    int sum =0;
+    int size ;
+    int sum=0;
     Solution(vector<int>& w) {
         size = w.size();
         for(auto &it : w){
@@ -12,8 +12,8 @@ public:
     }
     
     int pickIndex() {
-        int index = rand()% sum;
-        auto it  = upper_bound(weights.begin(), weights.end() , index) - weights.begin();
+        int index = rand()%sum;
+        auto it = upper_bound(weights.begin(), weights.end(), index) - weights.begin();
         return it;
     }
 };
