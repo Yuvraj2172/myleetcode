@@ -11,7 +11,8 @@ public:
                 if( (s[i] == ')' && ch == '(') || (s[i] == '}' && ch == '{') || (s[i] == ']' && ch == '[') )continue;
                 else return false;
             }
-
+          
+            
         }
         return st.empty();
     }
