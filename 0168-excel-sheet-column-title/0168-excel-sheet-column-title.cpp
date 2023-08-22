@@ -1,12 +1,12 @@
 class Solution {
 public:
     string convertToTitle(int n) {
-        string str = "";
+        string ans="";
         while(n>0){
-            char ch  = 'A' + (n-1)%26;
-            str = ch + str;
-            n = (n-1)/26;
+            char ch = 'A' + (n-1)%26;
+            ans = ch + ans;
+            n=(n-1)/26;
         }
-        return str;
+        return ans;
     }
 };
