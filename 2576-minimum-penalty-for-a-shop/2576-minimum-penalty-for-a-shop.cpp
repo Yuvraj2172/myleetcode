@@ -1,23 +1,15 @@
 class Solution {
 public:
     int bestClosingTime(string s) {
-        int cur_penalty = count(s.begin(), s.end(),'Y');
-        int cur_hour =0;
-        int min_penalty = cur_penalty;
-        int earliest_hour = cur_hour;
-        int n = s.size();
-        for(int i=0; i<n;i++){
-            if(s[i] == 'Y'){
-                cur_penalty--;     
-            }
-            else {
-                cur_penalty++;
-            }
-            if(cur_penalty < min_penalty){
-                earliest_hour = i+1;
-                min_penalty = cur_penalty;
+        int p = count(s.begin(), s.end(), 'Y'),minp = 0, cp =0,ans =0, n = s.size();
+        for(int i=0;i<n;i++){
+            if(s[i]=='Y')cp--;
+            else cp++;
+            if(cp < minp){
+                ans = i+1;
+                minp = cp;
             }
         }
-        return earliest_hour;
+        return ans;
     }
 };
