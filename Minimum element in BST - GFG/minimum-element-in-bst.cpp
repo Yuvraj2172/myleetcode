@@ -92,15 +92,9 @@ int main() {
 }
 // } Driver Code Ends
 
-void helper(Node* root, vector<int>& temp){
-    if(!root)return;
-    helper(root->left,temp);
-    temp.push_back(root->data);
-    helper(root->right,temp);
-}
+
 int minValue(Node* root) {
-    vector<int> temp;
     if(!root)return -1;
-    helper(root ,temp);
-    return temp[0];
+    while(root->left)root = root->left;
+    return root->data;
 }
