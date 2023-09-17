@@ -1,31 +1,20 @@
-
 class Solution {
 public:
-    Solution(){
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
+    int ans = -(1e9 + 7);
+    int height(TreeNode* root){
+      if(!root)return 0;
+      return 1 + max(height(root->left), height(root->right));
     }
-    pair<int,int> helper(TreeNode* root){
-        if(root == NULL){
-        pair<int, int> p ;
-            p.first = 0;
-            p.second = 0;
-            return p;
-        }
-        pair<int, int> leftAns = helper(root->left);
-        pair<int, int> rightAns = helper(root->right);
-        int lh = leftAns.first;
-        int rh = rightAns.first;
-        int ld = leftAns.second;
-        int rd= rightAns.second;
-        int height = 1 + max(lh, rh);
-        int diameter = max(lh+ rh , max(ld , rd));
-        pair<int,int> ans;
-        ans.first = height;
-        ans.second = diameter;
-        return ans;
+    void dia(TreeNode* root){
+      if(!root)return;
+      int lh = height(root->left);
+      int rh = height(root->right);
+      ans = max(ans , lh + rh);
+      dia(root->left);
+      dia(root->right);
     }
     int diameterOfBinaryTree(TreeNode* root) {
-       return helper(root).second;
+        dia(root);
+        return ans;
     }
 };
