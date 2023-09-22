@@ -11,10 +11,8 @@ public:
         helper(root);
         sort(v.begin(), v.end());
         int ans = 1e9+7;
-        for(int i=0; i<v.size();i++){
-          for(int j = i+1; j<v.size();j++){
-            ans = min(ans, v[j] - v[i]);
-          }
+        for(int i=0; i<v.size()-1;i++){
+          ans = min(ans, abs(v[i]- v[i+1]));
         }
         return ans;
     }
