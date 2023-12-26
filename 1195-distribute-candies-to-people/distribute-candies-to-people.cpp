@@ -7,16 +7,19 @@ public:
             if(i>=n && candies!=0){
                 i=0;
             }
-            if(c< candies){
-                ans[i] += c;
-                candies -= c;
-            }
-            else{
-                ans[i]+=candies;
-                return ans;
-            }
+
+                if(candies < c){
+                    ans[i]+=candies;
+                    return ans;
+                }
+                else {
+                    ans[i] += c;
+                    candies -= c;
+                }
+            
             i++; c++;
         }
         return ans;
     }
 };
+
