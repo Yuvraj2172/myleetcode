@@ -1,7 +1,7 @@
 class Solution {
 public:
     int countLargestGroup(int n) {
-       map<int, vector<int>> mp;
+       unordered_map<int, vector<int>> mp;
        for(int i=1; i<=n;i++){
            int sum =0;
            int temp = i;
