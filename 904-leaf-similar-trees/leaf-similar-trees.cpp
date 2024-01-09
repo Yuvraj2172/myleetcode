@@ -11,11 +11,6 @@ public:
         vector<int> b;
         f(root1, a);
         f(root2,b);
-        int n = (a.size()<=b.size())? a.size() : b.size();
-        if(a.size()!=b.size())return false;
-        for(int i =0; i<n; i++){
-            if(a[i]!=b[i])return false;
-        }
-        return true;
+        return (a==b) ? true : false;
     }
 };
