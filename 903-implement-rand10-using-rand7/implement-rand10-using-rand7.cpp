@@ -6,7 +6,7 @@ public:
             int col = rand7();
             int num = row + col;
             if(num <= 40){
-                return (num)%10+ 1 ;
+                return (num-1)%10+ 1 ;
             }
         }
         return 0;
