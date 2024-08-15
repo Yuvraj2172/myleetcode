@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0040-combination-sum-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Yuvraj2172/myleetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Yuvraj2172/myleetcode/tree/master/0921-spiral-matrix-iii) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Yuvraj2172/myleetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
