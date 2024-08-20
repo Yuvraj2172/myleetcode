@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Yuvraj2172/myleetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/Yuvraj2172/myleetcode/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/Yuvraj2172/myleetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Yuvraj2172/myleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Yuvraj2172/myleetcode/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/Yuvraj2172/myleetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Yuvraj2172/myleetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1240-stone-game-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/1240-stone-game-ii) |
 | [1720-crawler-log-folder](https://github.com/Yuvraj2172/myleetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Yuvraj2172/myleetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Yuvraj2172/myleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -134,8 +136,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Yuvraj2172/myleetcode/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/Yuvraj2172/myleetcode/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/1240-stone-game-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Yuvraj2172/myleetcode/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/1240-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
