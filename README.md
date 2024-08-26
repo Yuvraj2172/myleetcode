@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Yuvraj2172/myleetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1720-crawler-log-folder](https://github.com/Yuvraj2172/myleetcode/tree/master/1720-crawler-log-folder) |
 ## Number Theory
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Yuvraj2172/myleetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/Yuvraj2172/myleetcode/tree/master/0999-regions-cut-by-slashes) |
 ## Breadth-First Search
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Yuvraj2172/myleetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Yuvraj2172/myleetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
