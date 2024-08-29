@@ -1,36 +1,25 @@
 class Solution {
-public:    
-    vector<int> row[10001], col[10001];
-    bitset<1001> viz;
-
-    void dfs(int idx, vector<vector<int>>& stones) {
-        const int i = stones[idx][0], j=stones[idx][1];
-        viz[idx]=1;
-        for (auto k : row[i]) {
-            if (!viz[k]) dfs(k, stones);
-        }
-        for (auto k : col[j]) {
-            if (!viz[k]) dfs(k, stones);
-        }
-    }
-
-    int removeStones(vector<vector<int>>& stones) {
-        const int n=stones.size();
-
-        for (int idx=0; idx<n; idx++) {
-            const int i = stones[idx][0], j = stones[idx][1];
-            row[i].push_back(idx);
-            col[j].push_back(idx);
-        }
-        
-        int component=0;
-        for  (int idx=0; idx<n; idx++) {
-            const int i = stones[idx][0], j = stones[idx][1];
-            if (!viz[idx]) {
-                dfs(idx, stones); 
-                component++;
+public:
+    void dfs(vector<vector<int>>& arr, int ind, vector<int>& vis){
+        vis[ind] = 1;
+        for(int i=0; i<arr.size(); i++){
+            if(!vis[i]){
+                if(arr[i][0] == arr[ind][0])dfs(arr,i,vis);
+                if(arr[i][1] == arr[ind][1])dfs(arr,i,vis);
             }
         }
-        return n-component;
+
+    }
+    int removeStones(vector<vector<int>>& arr) {
+        int n =  arr.size();
+        vector<int> vis(n+1, 0);
+        int ans =0;
+        for(int i=0; i<arr.size(); i++){
+            if(!vis[i]){
+                ans++;
+                dfs(arr, i, vis);
+            }
+        }
+        return n - ans;
     }
 };
