@@ -4,8 +4,8 @@ public:
         vis[ind] = 1;
         for(int i=0; i<arr.size(); i++){
             if(!vis[i]){
-                if(arr[i][0] == arr[ind][0])dfs(arr,i,vis);
-                if(arr[i][1] == arr[ind][1])dfs(arr,i,vis);
+                if(arr[i][0] == arr[ind][0] || arr[i][1] == arr[ind][1])dfs(arr,i,vis);
+                
             }
         }
 
