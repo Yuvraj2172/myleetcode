@@ -1,36 +1,31 @@
 class Solution {
 public:
-    bool dfs(int i, int j, vector<vector<int>>& grid1, vector<vector<int>>& grid2, int n, int m) {
-        if(i < 0 || j < 0 || i >= n || j >= m) return true;
+    bool dfs(vector<vector<int>>& arr1, vector<vector<int>>& arr2, 
+    int m, int n, int i, int j){
         
-        if(grid2[i][j] == 0) return true;
-        grid2[i][j] = 0;
+        if(i<0 || i>=m || j<0 || j>=n || arr2[i][j] == 0)return 1;
+        arr2[i][j] = 0;
+        
+        bool res =1;
+        bool d = dfs(arr1, arr2, m,n,i+1,j);
+        bool u = dfs(arr1, arr2, m,n,i-1,j);
+        bool r = dfs(arr1, arr2, m,n,i,j+1);
+        bool l = dfs(arr1, arr2, m,n,i,j-1);
 
-        bool isSubIsland = true;
-        if(grid1[i][j] == 0) isSubIsland = false;
+        return l&& u&& d && r && arr1[i][j];
 
-        bool right = dfs(i + 1, j, grid1, grid2, n, m);
-        bool down = dfs(i, j + 1, grid1, grid2, n, m);
-        bool left = dfs(i - 1, j, grid1, grid2, n, m);
-        bool up = dfs(i, j - 1, grid1, grid2, n, m);
-
-        return isSubIsland && right && down && left && up;
     }
+    int countSubIslands(vector<vector<int>>& arr1, vector<vector<int>>& arr2) {
+        int m = arr1.size(), n = arr1[0].size();
 
-    int countSubIslands(vector<vector<int>>& grid1, vector<vector<int>>& grid2) {
-        int n = grid1.size();
-        int m = grid1[0].size();
+        int ans  =0;
+        for(int i=0; i<m; i++){
+            for(int j=0; j<n;j++){
+                if(arr2[i][j] == 1)
+                    ans +=dfs(arr1, arr2, m,n,i,j);
 
-        int count = 0;
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < m; j++) {
-                if(grid2[i][j] == 1) {
-                    if(dfs(i, j, grid1, grid2, n, m)) {
-                        count++;
-                    }
-                }
             }
-        }
-        return count;
+        }    
+        return ans;
     }
 };
