@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Yuvraj2172/myleetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Yuvraj2172/myleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2155-find-missing-observations](https://github.com/Yuvraj2172/myleetcode/tree/master/2155-find-missing-observations) |
 ## Simulation
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Yuvraj2172/myleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Yuvraj2172/myleetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Yuvraj2172/myleetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2155-find-missing-observations](https://github.com/Yuvraj2172/myleetcode/tree/master/2155-find-missing-observations) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Yuvraj2172/myleetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Yuvraj2172/myleetcode/tree/master/2035-count-sub-islands) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2155-find-missing-observations](https://github.com/Yuvraj2172/myleetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Recursion
 |  |
