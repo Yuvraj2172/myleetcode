@@ -4,9 +4,10 @@ public:
         if(!head || !head->next)return 0;
         ListNode* slow = head;
         ListNode* fast = head->next;
-        while(fast->next && fast->next->next){
+
+        while(fast->next->next !=NULL && fast->next != NULL){
             if(slow == fast)return 1;
-            slow = slow->next; 
+            slow = slow->next;
             fast = fast->next->next;
         }
         return 0;
