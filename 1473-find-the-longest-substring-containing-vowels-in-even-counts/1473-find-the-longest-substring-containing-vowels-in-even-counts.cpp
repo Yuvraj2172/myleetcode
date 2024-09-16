@@ -1,38 +1,35 @@
 class Solution {
-private:
-    bool chk_vowel(char ch) {
-        return ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u';
-    }
-
 public:
     int findTheLongestSubstring(string s) {
-        unordered_map<char, int> vowel_position = {{'a', 0}, {'e', 1}, {'i', 2}, {'o', 3}, {'u', 4}};
-        unordered_map<int, int> last_occured;
-        last_occured[0] = -1;  // Initial state with no vowels
-        
-        int cur = 0;  // Bitmask to track the parity of vowel counts
-        int max_len = 0;
+        vector<int> mp(32,-2);
+        mp[0] = -1;
+        int ans =0;
+        int mask = 0;
 
-        for (int r = 0; r < s.size(); r++) {
-            if (chk_vowel(s[r])) {
-                // Toggle the bit for the current vowel
-                cur ^= (1 << vowel_position[s[r]]);
+        int n = s.size();
+        for(int i=0; i<n;i++){
+            int ch = s[i];
 
-                // Uncomment it to see the bits changing
-                // bitset<5> b(cur);
-                // cout<<b<<endl;
+            if(ch == 'a'){
+                mask ^= 1;
+            }else if(ch == 'e'){
+                mask ^=2;
+            }else if(ch == 'i'){
+                mask ^=4;
+            }else if(ch == 'o'){
+                mask ^=8;
+            }else if(ch == 'u'){
+                mask ^=16;
             }
 
-            // If the current state has been seen before, calculate the length
-            if (last_occured.find(cur) != last_occured.end()) {
-                max_len = max(max_len, r - last_occured[cur]);
-            } 
-            // Store the first occurrence of this state
-            else {
-                last_occured[cur] = r;
+            int prev = mp[mask];
+            if(prev == -2){
+                mp[mask] = i;
+            }else {
+                ans = max(ans, i - prev);
             }
         }
-
-        return max_len;
+        
+        return ans;
     }
 };
