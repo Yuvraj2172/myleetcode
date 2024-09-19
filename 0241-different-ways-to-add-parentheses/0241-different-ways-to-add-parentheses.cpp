@@ -1,33 +1,31 @@
 class Solution {
 public:
-    int perform(int x, int y, char op){
-        switch(op){
-        case '+' : return x+y;
-        case '-' : return x-y;
-        case '*' : return x*y;
-        default : return 0;
-        }
+    int helper(int a, int b, char op){
+        if(op == '+')return a + b;
+        else if(op == '-')return a-b;
+        else if (op == '*')return a*b;
         return 0;
     }
-    vector<int> diffWaysToCompute(string exp) {
-        vector<int> results;
-        bool isNumber=1;
-        for(int i=0; i<exp.length(); i++){
-            if(!isdigit(exp[i])){
+    vector<int> diffWaysToCompute(string s) {
+        vector<int> ans; 
+        bool isNumber = 1;
+        for(int i=0; i<s.length(); i++){
+            if(!isdigit(s[i])){
                 isNumber = 0;
-                vector<int> left = 
-                diffWaysToCompute(exp.substr(0,i));
-                vector<int> right = diffWaysToCompute(exp.substr(i+1));
-                for(int x : left){
-                    for(int y : right){
-                        int val = perform(x,y,exp[i]);
-                        results.push_back(val);
+                vector<int> left = diffWaysToCompute(s.substr(0,i));
+                vector<int> right= diffWaysToCompute(s.substr(i+1));
+
+                for(auto l : left){
+                    for(auto r : right){
+                        int val = helper(l,r,s[i]);
+                        ans.push_back(val);
                     }
                 }
-            }
 
+            }
+        
         }
-        if(isNumber == 1)results.push_back(stoi(exp));
-        return results;
+        if(isNumber == 1)ans.push_back(stoi(s));
+        return ans;
     }
 };
