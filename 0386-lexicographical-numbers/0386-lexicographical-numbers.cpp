@@ -1,22 +1,20 @@
 class Solution {
 public:
 
-    void helper(int curr, int n, vector<int>& res){
+    void helper(int curr, int n, vector<int>& ans){
         if(curr > n)return;
-        res.push_back(curr);
-
-        for(int i =0; i<=9; i++){
-            if(curr * 10  + i > n)break;
-            helper(curr * 10  + i, n,res);
+        ans.push_back(curr);
+        for(int i=0; i<=9; i++){
+            if(curr * 10 + i > n)return;
+            helper(curr * 10 + i, n, ans);
         }
     }
 
     vector<int> lexicalOrder(int n) {
-        vector<int> res;
-        for(int i=1; i<=9; i++){
-           
-            helper(i,n,res);
+        vector<int> ans;
+        for(int i=1; i<=9;i++){
+            helper(i,n,ans);
         }
-        return res;
+        return ans;
     }
 };
