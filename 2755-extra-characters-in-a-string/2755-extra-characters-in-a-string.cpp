@@ -1,21 +1,16 @@
 class Solution {
 public:
-    int helper(string s, unordered_map<string, int>& mp, int ind, vector<int>& dp){
-        if(ind>= s.size())return 0;
-        if(dp[ind]!=-1)return dp[ind];
-        string currstr = "";
-        int ans = s.size();
-        for( int i = ind ; i<s.size();i++){
-            currstr.push_back(s[i]);
-            int count = (mp.count(currstr) ? 0 : currstr.size()) + helper(s, mp , i+1, dp);
-            ans = min(ans , count);
+    int minExtraChar(string s, vector<string>& d) {
+        int n = s.size(), m;
+        vector<int> dp(n + 1);
+        for (int i{1}; i <= n; ++i) {
+            dp[i] = dp[i - 1] + 1; 
+            for (const string& word : d) {
+                m = word.size();
+                if (i >= m && s.substr(i - m, m) == word) dp[i] = min(dp[i], dp[i - m]);
+            }
         }
-        return dp[ind] = ans;
-    }
-    int minExtraChar(string s, vector<string>& dictionary) {
-        vector<int> dp(s.size(), -1);
-        unordered_map<string, int> mp;
-        for(auto it : dictionary)mp[it]++;
-        return helper(s, mp,0, dp);
+        return dp[n];
     }
 };
+auto io_opt = [] { ios::sync_with_stdio(false); cin.tie(nullptr); cout.tie(nullptr); return 0; }();
