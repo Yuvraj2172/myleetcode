@@ -24,8 +24,4 @@ public:
     }
 };
 
-/**
- * Your MyCalendarTwo object will be instantiated and called as such:
- * MyCalendarTwo* obj = new MyCalendarTwo();
- * bool param_1 = obj->book(start,end);
- */
+auto io_opt = [] { ios::sync_with_stdio(false); cin.tie(nullptr); return 0; }();
