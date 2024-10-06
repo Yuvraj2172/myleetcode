@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Yuvraj2172/myleetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Yuvraj2172/myleetcode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/Yuvraj2172/myleetcode/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/Yuvraj2172/myleetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Yuvraj2172/myleetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Yuvraj2172/myleetcode/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Yuvraj2172/myleetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Yuvraj2172/myleetcode/tree/master/0141-linked-list-cycle) |
 | [0264-ugly-number-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/Yuvraj2172/myleetcode/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/Yuvraj2172/myleetcode/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Yuvraj2172/myleetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Yuvraj2172/myleetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yuvraj2172/myleetcode/tree/master/0141-linked-list-cycle) |
+| [0567-permutation-in-string](https://github.com/Yuvraj2172/myleetcode/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Yuvraj2172/myleetcode/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yuvraj2172/myleetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Memoization
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Yuvraj2172/myleetcode/tree/master/0432-all-oone-data-structure) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Yuvraj2172/myleetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
