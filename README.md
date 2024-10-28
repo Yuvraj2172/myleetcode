@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Yuvraj2172/myleetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Yuvraj2172/myleetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yuvraj2172/myleetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yuvraj2172/myleetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Yuvraj2172/myleetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Yuvraj2172/myleetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Yuvraj2172/myleetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yuvraj2172/myleetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Yuvraj2172/myleetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Yuvraj2172/myleetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yuvraj2172/myleetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yuvraj2172/myleetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Yuvraj2172/myleetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Yuvraj2172/myleetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Yuvraj2172/myleetcode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Yuvraj2172/myleetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Game Theory
 |  |
 | ------- |
