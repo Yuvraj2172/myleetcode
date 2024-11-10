@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yuvraj2172/myleetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Yuvraj2172/myleetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Yuvraj2172/myleetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Yuvraj2172/myleetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Yuvraj2172/myleetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Yuvraj2172/myleetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Yuvraj2172/myleetcode/tree/master/3394-minimum-array-end) |
 ## Graph
 |  |
@@ -377,4 +379,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/Yuvraj2172/myleetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yuvraj2172/myleetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->
