@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Yuvraj2172/myleetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Yuvraj2172/myleetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Yuvraj2172/myleetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/Yuvraj2172/myleetcode/tree/master/1942-primary-department-for-each-employee) |
