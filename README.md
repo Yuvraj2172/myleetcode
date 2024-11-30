@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/Yuvraj2172/myleetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/Yuvraj2172/myleetcode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Yuvraj2172/myleetcode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/Yuvraj2172/myleetcode/tree/master/1837-daily-leads-and-partners) |
