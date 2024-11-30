@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1625-group-sold-products-by-the-date](https://github.com/Yuvraj2172/myleetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Yuvraj2172/myleetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/Yuvraj2172/myleetcode/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Yuvraj2172/myleetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
