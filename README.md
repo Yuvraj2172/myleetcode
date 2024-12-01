@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0608-tree-node](https://github.com/Yuvraj2172/myleetcode/tree/master/0608-tree-node) |
+| [1174-sales-analysis-iii](https://github.com/Yuvraj2172/myleetcode/tree/master/1174-sales-analysis-iii) |
 | [1452-restaurant-growth](https://github.com/Yuvraj2172/myleetcode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/Yuvraj2172/myleetcode/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Yuvraj2172/myleetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
