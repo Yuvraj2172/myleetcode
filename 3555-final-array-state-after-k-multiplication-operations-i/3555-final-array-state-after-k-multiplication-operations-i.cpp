@@ -1,28 +1,23 @@
 class Solution {
 public:
-    struct compare {
-        bool operator()(pair<int, int> a, pair<int, int> b) {
-            if (a.first == b.first) {
-                return a.second > b.second;
+
+    int helper(vector<int>& arr, int n){
+        int ans = 0;
+        int e = arr[0];
+        for(int i= 1; i<n;i++){
+            if(arr[i] < e){
+                e = arr[i];
+                ans = i;
             }
-            return a.first > b.first;
         }
-    };
+        return ans;
+    }
 
     vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
-        priority_queue<pair<int, int>, vector<pair<int, int>>, compare> pq;
-        for (int i = 0; i < nums.size(); i++) {
-            pq.push({nums[i], i});
-        }
-        while (k--) {
-            auto Y = pq.top();
-            pq.pop();
-            pq.push({Y.first * multiplier, Y.second});
-        }
-        while (!pq.empty()) {
-            auto to = pq.top();
-            pq.pop();
-            nums[to.second] = to.first;
+        int n = nums.size();
+        for(int i=0; i<k; i++){
+            int mineleind = helper(nums,n);
+            nums[mineleind] = multiplier * nums[mineleind];
         }
         return nums;
     }
