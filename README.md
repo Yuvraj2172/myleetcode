@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Yuvraj2172/myleetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Yuvraj2172/myleetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/Yuvraj2172/myleetcode/tree/master/2411-spiral-matrix-iv) |
+| [2465-shifting-letters-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yuvraj2172/myleetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Yuvraj2172/myleetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Yuvraj2172/myleetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Yuvraj2172/myleetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yuvraj2172/myleetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2465-shifting-letters-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Yuvraj2172/myleetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Yuvraj2172/myleetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Yuvraj2172/myleetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Yuvraj2172/myleetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Yuvraj2172/myleetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Yuvraj2172/myleetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yuvraj2172/myleetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Yuvraj2172/myleetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
