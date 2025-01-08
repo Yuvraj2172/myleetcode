@@ -1,22 +1,10 @@
 class Solution {
 public:
     bool helper(string s, string target){
-        bool f1 = true;
-        bool f2 = true;
         int ss = s.size();
         int ts = target.size();
-        for(int i = 0; i< s.size(); i++){
-            if(s[i]!= target[i]){f1 = false; break;}
-        }
-        ts--;
-        reverse(target.begin(), target.end());
-        reverse(s.begin(), s.end());
-        for(int i = 0; i< s.size(); i++){
-            if(s[i]!= target[i]){f2 = false; break;}
-        }
-        cout<< f1 <<" : "<<f2;
-        cout<<endl;
-        return f1 && f2;
+        if(ss > ts)return false;
+        return (target.substr(0,ss)) == s && (target.substr(ts - ss) == s);
     }
     int countPrefixSuffixPairs(vector<string>& arr) {
         int ans = 0;
