@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Yuvraj2172/myleetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvraj2172/myleetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Yuvraj2172/myleetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Yuvraj2172/myleetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yuvraj2172/myleetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2465-shifting-letters-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/2465-shifting-letters-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Yuvraj2172/myleetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/Yuvraj2172/myleetcode/tree/master/1720-crawler-log-folder) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvraj2172/myleetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Yuvraj2172/myleetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yuvraj2172/myleetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Number Theory
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yuvraj2172/myleetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Yuvraj2172/myleetcode/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvraj2172/myleetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Yuvraj2172/myleetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yuvraj2172/myleetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yuvraj2172/myleetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yuvraj2172/myleetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
