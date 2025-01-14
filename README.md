@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yuvraj2172/myleetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Yuvraj2172/myleetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Yuvraj2172/myleetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yuvraj2172/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Yuvraj2172/myleetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yuvraj2172/myleetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Yuvraj2172/myleetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Yuvraj2172/myleetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yuvraj2172/myleetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Yuvraj2172/myleetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Yuvraj2172/myleetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Yuvraj2172/myleetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Yuvraj2172/myleetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Yuvraj2172/myleetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Yuvraj2172/myleetcode/tree/master/3394-minimum-array-end) |
 ## Graph
