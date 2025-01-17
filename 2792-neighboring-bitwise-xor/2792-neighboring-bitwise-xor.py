@@ -1,7 +1,6 @@
 class Solution:
-    def doesValidArrayExist(self, derived: List[int]) -> bool:
+    def doesValidArrayExist(self, arr: List[int]) -> bool:
         x = 0
-        for i in derived:
+        for i in arr:
             x ^= i
-        
         return True if x == 0 else False
