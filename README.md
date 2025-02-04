@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yuvraj2172/myleetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Yuvraj2172/myleetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/Yuvraj2172/myleetcode/tree/master/0179-largest-number) |
 | [0407-trapping-rain-water-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Yuvraj2172/myleetcode/tree/master/0035-search-insert-position) |
 | [0729-my-calendar-i](https://github.com/Yuvraj2172/myleetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Yuvraj2172/myleetcode/tree/master/0789-kth-largest-element-in-a-stream) |
