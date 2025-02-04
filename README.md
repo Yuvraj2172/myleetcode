@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yuvraj2172/myleetcode/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yuvraj2172/myleetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yuvraj2172/myleetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/Yuvraj2172/myleetcode/tree/master/0179-largest-number) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yuvraj2172/myleetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yuvraj2172/myleetcode/tree/master/0035-search-insert-position) |
 | [0729-my-calendar-i](https://github.com/Yuvraj2172/myleetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0731-my-calendar-ii) |
