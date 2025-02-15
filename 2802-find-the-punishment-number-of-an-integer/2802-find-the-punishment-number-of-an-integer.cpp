@@ -5,7 +5,7 @@ public:
         if(sq < n || n <0)return 0;
         return (helper(sq / 10, n - sq % 10) || 
                 helper(sq / 100, n - sq % 100) || 
-                helper(sq / 1000, n - sq % 1000) );
+                helper(sq / 1000, n - sq % 1000));
     }
     int punishmentNumber(int n) {
         int ans = 0;
