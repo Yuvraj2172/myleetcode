@@ -7,6 +7,7 @@ public:
         }
         for(int i=0; i < v.size(); i++){
             if(!curr.empty() && v[i]== curr.back() )continue;
+            // if(v[i] == curr.back() && !curr.empty())continue;
             curr.push_back(v[i]);
             helper(n,k,res,v,curr);
             curr.pop_back();
