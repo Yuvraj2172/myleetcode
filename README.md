@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Yuvraj2172/myleetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Yuvraj2172/myleetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/Yuvraj2172/myleetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/Yuvraj2172/myleetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Yuvraj2172/myleetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Yuvraj2172/myleetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/Yuvraj2172/myleetcode/tree/master/2411-spiral-matrix-iv) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Yuvraj2172/myleetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Yuvraj2172/myleetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Yuvraj2172/myleetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/Yuvraj2172/myleetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Yuvraj2172/myleetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
