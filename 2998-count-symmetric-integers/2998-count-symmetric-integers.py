@@ -5,7 +5,9 @@ class Solution:
             str_n = str(n)
 
             if len(str_n) % 2 == 0:
-                if sum(int(d) for d in str_n[0:len(str_n) // 2]) == sum(int(d) for d in str_n[len(str_n) // 2:]):
+                sfh = sum(int(d) for d in str_n[0:len(str_n) // 2])
+                ssh = sum(int(d) for d in str_n[len(str_n) // 2 : ])
+                if sfh == ssh:
                     ans += 1
-                    
+
         return ans
