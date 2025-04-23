@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-largest-group">Count Largest Group</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-largest-group">1500. Count Largest Group</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>n</code>.</p>
 
 <p>Each number from <code>1</code> to <code>n</code> is grouped according to the sum of its digits.</p>
 
