@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Yuvraj2172/myleetcode/tree/master/0110-balanced-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Yuvraj2172/myleetcode/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/Yuvraj2172/myleetcode/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Yuvraj2172/myleetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Yuvraj2172/myleetcode/tree/master/0110-balanced-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Yuvraj2172/myleetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Yuvraj2172/myleetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yuvraj2172/myleetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Yuvraj2172/myleetcode/tree/master/0110-balanced-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Yuvraj2172/myleetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yuvraj2172/myleetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yuvraj2172/myleetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
