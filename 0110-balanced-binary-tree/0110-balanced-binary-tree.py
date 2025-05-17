@@ -2,6 +2,8 @@
 class Solution:
     ans = True
     def helper(self, root):
+        if self.ans == False:
+            return 0 
         if root is None:
             return 0
         left_check = self.helper(root.left)
