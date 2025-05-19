@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Yuvraj2172/myleetcode/tree/master/0069-sqrtx) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Yuvraj2172/myleetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Yuvraj2172/myleetcode/tree/master/0273-integer-to-english-words) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yuvraj2172/myleetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yuvraj2172/myleetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Yuvraj2172/myleetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Yuvraj2172/myleetcode/tree/master/0162-find-peak-element) |
 | [0729-my-calendar-i](https://github.com/Yuvraj2172/myleetcode/tree/master/0729-my-calendar-i) |
