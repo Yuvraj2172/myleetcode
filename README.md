@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yuvraj2172/myleetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yuvraj2172/myleetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0040-combination-sum-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Yuvraj2172/myleetcode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Yuvraj2172/myleetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Yuvraj2172/myleetcode/tree/master/0179-largest-number) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yuvraj2172/myleetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Yuvraj2172/myleetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Yuvraj2172/myleetcode/tree/master/0141-linked-list-cycle) |
 | [0264-ugly-number-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/Yuvraj2172/myleetcode/tree/master/0432-all-oone-data-structure) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Yuvraj2172/myleetcode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Yuvraj2172/myleetcode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Yuvraj2172/myleetcode/tree/master/0854-making-a-large-island) |
