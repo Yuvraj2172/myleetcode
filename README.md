@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Yuvraj2172/myleetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Yuvraj2172/myleetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Yuvraj2172/myleetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Yuvraj2172/myleetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Yuvraj2172/myleetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Yuvraj2172/myleetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Yuvraj2172/myleetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Design
 |  |
 | ------- |
