@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/Yuvraj2172/myleetcode/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Yuvraj2172/myleetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Yuvraj2172/myleetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Yuvraj2172/myleetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Yuvraj2172/myleetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Yuvraj2172/myleetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2201-valid-arrangement-of-pairs](https://github.com/Yuvraj2172/myleetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Yuvraj2172/myleetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Yuvraj2172/myleetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Yuvraj2172/myleetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Yuvraj2172/myleetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3189-find-champion-ii) |
