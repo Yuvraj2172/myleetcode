@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Yuvraj2172/myleetcode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0135-candy](https://github.com/Yuvraj2172/myleetcode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/Yuvraj2172/myleetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Yuvraj2172/myleetcode/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Yuvraj2172/myleetcode/tree/master/0368-largest-divisible-subset) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Yuvraj2172/myleetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Yuvraj2172/myleetcode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Yuvraj2172/myleetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yuvraj2172/myleetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
