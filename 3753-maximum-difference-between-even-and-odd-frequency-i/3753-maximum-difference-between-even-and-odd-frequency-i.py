@@ -1,17 +1,14 @@
 from collections import Counter
 class Solution:
     def maxDifference(self, s: str) -> int:
-        d = Counter(s)
-        print(d)
-        e, o = [],[]
-        for c in d.values():
-            if c % 2 == 0:
-                e.append(c)
-            else:
-                o.append(c)
-        e.sort()
-        o.sort()
+        mp = [0] * 26
+        for c in s:
+            mp[ord(c) - ord('a')] +=1
 
-        return o[-1] - e[0]
-       
-    
+        maxi, mini = 0, len(s)
+        for i in range(26):
+            if mp[i] % 2 == 0 and mp[i] > 0:
+                mini = min(mini, mp[i])
+            else:
+                maxi = max(maxi, mp[i])
+        return maxi - mini
