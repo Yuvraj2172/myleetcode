@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Yuvraj2172/myleetcode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Yuvraj2172/myleetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Yuvraj2172/myleetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Yuvraj2172/myleetcode/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/Yuvraj2172/myleetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
