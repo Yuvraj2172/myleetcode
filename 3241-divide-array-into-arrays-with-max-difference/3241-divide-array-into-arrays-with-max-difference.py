@@ -4,12 +4,9 @@ class Solution:
         ans = []
         for i in range(0, len(nums), 3):
             temp = []
-            if abs(nums[i] - nums[i+1]) <= k and abs(nums[i+1] - nums[i+2]) <= k and abs(nums[i] - nums[i+2]) <= k:
-                temp.append(nums[i])
-                temp.append(nums[i+1])
-                temp.append(nums[i+2])
-                ans.append(temp)
-            else:
+            if nums[i+2] - nums[i] > k:
                 return []
+            else:
+                ans.append([nums[i], nums[i+1], nums[i+2]])
         return ans
             
