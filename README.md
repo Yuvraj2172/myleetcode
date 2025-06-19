@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Yuvraj2172/myleetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Yuvraj2172/myleetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yuvraj2172/myleetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Yuvraj2172/myleetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/Yuvraj2172/myleetcode/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yuvraj2172/myleetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvraj2172/myleetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Yuvraj2172/myleetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yuvraj2172/myleetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yuvraj2172/myleetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yuvraj2172/myleetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/Yuvraj2172/myleetcode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Yuvraj2172/myleetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Yuvraj2172/myleetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yuvraj2172/myleetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yuvraj2172/myleetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yuvraj2172/myleetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yuvraj2172/myleetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2586-longest-square-streak-in-an-array) |
