@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Yuvraj2172/myleetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Yuvraj2172/myleetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yuvraj2172/myleetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Yuvraj2172/myleetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Yuvraj2172/myleetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -889,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yuvraj2172/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Yuvraj2172/myleetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yuvraj2172/myleetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Yuvraj2172/myleetcode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3201-distribute-candies-among-children-ii) |
