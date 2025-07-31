@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Yuvraj2172/myleetcode/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/Yuvraj2172/myleetcode/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yuvraj2172/myleetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Yuvraj2172/myleetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0952-word-subsets](https://github.com/Yuvraj2172/myleetcode/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/Yuvraj2172/myleetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1240-stone-game-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/1240-stone-game-ii) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Yuvraj2172/myleetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Yuvraj2172/myleetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/Yuvraj2172/myleetcode/tree/master/0909-stone-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Yuvraj2172/myleetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/Yuvraj2172/myleetcode/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Yuvraj2172/myleetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Yuvraj2172/myleetcode/tree/master/0476-number-complement) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Yuvraj2172/myleetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Yuvraj2172/myleetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Yuvraj2172/myleetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Yuvraj2172/myleetcode/tree/master/1786-count-the-number-of-consistent-strings) |
