@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yuvraj2172/myleetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Yuvraj2172/myleetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Yuvraj2172/myleetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Yuvraj2172/myleetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Yuvraj2172/myleetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Yuvraj2172/myleetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Yuvraj2172/myleetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yuvraj2172/myleetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Yuvraj2172/myleetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Yuvraj2172/myleetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Yuvraj2172/myleetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Yuvraj2172/myleetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Game Theory
 |  |
 | ------- |
