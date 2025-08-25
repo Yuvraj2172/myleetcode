@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Yuvraj2172/myleetcode/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Yuvraj2172/myleetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Yuvraj2172/myleetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Yuvraj2172/myleetcode/tree/master/0921-spiral-matrix-iii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Yuvraj2172/myleetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Yuvraj2172/myleetcode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Yuvraj2172/myleetcode/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/Yuvraj2172/myleetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Yuvraj2172/myleetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yuvraj2172/myleetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Yuvraj2172/myleetcode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/Yuvraj2172/myleetcode/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/Yuvraj2172/myleetcode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Yuvraj2172/myleetcode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/0870-magic-squares-in-grid) |
