@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Yuvraj2172/myleetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Yuvraj2172/myleetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1917-maximum-average-pass-ratio](https://github.com/Yuvraj2172/myleetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Yuvraj2172/myleetcode/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Yuvraj2172/myleetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Yuvraj2172/myleetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yuvraj2172/myleetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Yuvraj2172/myleetcode/tree/master/1304-longest-happy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Yuvraj2172/myleetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/Yuvraj2172/myleetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvraj2172/myleetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Yuvraj2172/myleetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Yuvraj2172/myleetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Yuvraj2172/myleetcode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Yuvraj2172/myleetcode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1917-maximum-average-pass-ratio](https://github.com/Yuvraj2172/myleetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Yuvraj2172/myleetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yuvraj2172/myleetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Yuvraj2172/myleetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
