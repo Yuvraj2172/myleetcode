@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Yuvraj2172/myleetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Yuvraj2172/myleetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Yuvraj2172/myleetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yuvraj2172/myleetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/Yuvraj2172/myleetcode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Yuvraj2172/myleetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Yuvraj2172/myleetcode/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yuvraj2172/myleetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yuvraj2172/myleetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3447-clear-digits](https://github.com/Yuvraj2172/myleetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yuvraj2172/myleetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Yuvraj2172/myleetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Yuvraj2172/myleetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yuvraj2172/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2906-construct-product-matrix](https://github.com/Yuvraj2172/myleetcode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yuvraj2172/myleetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Yuvraj2172/myleetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Yuvraj2172/myleetcode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yuvraj2172/myleetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/Yuvraj2172/myleetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yuvraj2172/myleetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
