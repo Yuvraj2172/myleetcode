@@ -1,5 +1,4 @@
-SELECT score, 
-DENSE_RANK() OVER (
-    ORDER BY score desc
-) as 'rank'
-from scores
+SELECT 
+score,
+dense_rank() over (order by score desc) as 'rank'
+from Scores
