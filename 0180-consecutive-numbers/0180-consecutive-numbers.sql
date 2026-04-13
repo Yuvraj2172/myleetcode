@@ -1,7 +1,11 @@
-with pdiddy as   (
-    select num as current_nigga, lead(num,1) over () as next_nigga, lead(num,2) over () as next_to_next_nigga
+WITH cnn_cte as (
+    SELECT id,
+num,
+lead(num) over(order by id ) as next,
+lag(num) over(order by id) as prev
 from logs
 )
 
-select distinct(current_nigga) as ConsecutiveNums  from pdiddy 
-where (current_nigga = next_nigga) and (next_nigga = next_to_next_nigga);
+SELECT distinct(num) as ConsecutiveNums
+from cnn_cte
+where num = prev and num = next
