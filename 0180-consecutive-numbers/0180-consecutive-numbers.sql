@@ -1,11 +1,15 @@
-WITH cnn_cte as (
-    SELECT id,
+with logs_cte as 
+(
+SELECT 
 num,
-lead(num) over(order by id ) as next,
-lag(num) over(order by id) as prev
+LAG(num) over(order by id) as prev_num,
+LEAD(num) over(order by id) as next_num
 from logs
 )
 
 SELECT distinct(num) as ConsecutiveNums
-from cnn_cte
-where num = prev and num = next
+from logs_cte
+where 
+num = prev_num 
+and 
+num = next_num
