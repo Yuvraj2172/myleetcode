@@ -990,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/Yuvraj2172/myleetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Yuvraj2172/myleetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Yuvraj2172/myleetcode/tree/master/0180-consecutive-numbers) |
+| [0197-rising-temperature](https://github.com/Yuvraj2172/myleetcode/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/Yuvraj2172/myleetcode/tree/master/0262-trips-and-users) |
 | [0601-human-traffic-of-stadium](https://github.com/Yuvraj2172/myleetcode/tree/master/0601-human-traffic-of-stadium) |
 | [0608-tree-node](https://github.com/Yuvraj2172/myleetcode/tree/master/0608-tree-node) |
