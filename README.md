@@ -995,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Yuvraj2172/myleetcode/tree/master/0577-employee-bonus) |
 | [0601-human-traffic-of-stadium](https://github.com/Yuvraj2172/myleetcode/tree/master/0601-human-traffic-of-stadium) |
 | [0608-tree-node](https://github.com/Yuvraj2172/myleetcode/tree/master/0608-tree-node) |
+| [0626-exchange-seats](https://github.com/Yuvraj2172/myleetcode/tree/master/0626-exchange-seats) |
 | [1153-product-sales-analysis-i](https://github.com/Yuvraj2172/myleetcode/tree/master/1153-product-sales-analysis-i) |
 | [1174-sales-analysis-iii](https://github.com/Yuvraj2172/myleetcode/tree/master/1174-sales-analysis-iii) |
 | [1452-restaurant-growth](https://github.com/Yuvraj2172/myleetcode/tree/master/1452-restaurant-growth) |
