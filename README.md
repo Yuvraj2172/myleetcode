@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/Yuvraj2172/myleetcode/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/Yuvraj2172/myleetcode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Yuvraj2172/myleetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Yuvraj2172/myleetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Yuvraj2172/myleetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Yuvraj2172/myleetcode/tree/master/2145-grid-game) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Yuvraj2172/myleetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Yuvraj2172/myleetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Yuvraj2172/myleetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Yuvraj2172/myleetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvraj2172/myleetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Yuvraj2172/myleetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Yuvraj2172/myleetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
