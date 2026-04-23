@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/Yuvraj2172/myleetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yuvraj2172/myleetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2615-sum-of-distances](https://github.com/Yuvraj2172/myleetcode/tree/master/2615-sum-of-distances) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yuvraj2172/myleetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Yuvraj2172/myleetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Yuvraj2172/myleetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yuvraj2172/myleetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Yuvraj2172/myleetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2615-sum-of-distances](https://github.com/Yuvraj2172/myleetcode/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Yuvraj2172/myleetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Yuvraj2172/myleetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Yuvraj2172/myleetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -831,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yuvraj2172/myleetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2571-find-the-pivot-integer](https://github.com/Yuvraj2172/myleetcode/tree/master/2571-find-the-pivot-integer) |
+| [2615-sum-of-distances](https://github.com/Yuvraj2172/myleetcode/tree/master/2615-sum-of-distances) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Yuvraj2172/myleetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2906-construct-product-matrix](https://github.com/Yuvraj2172/myleetcode/tree/master/2906-construct-product-matrix) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
