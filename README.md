@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Yuvraj2172/myleetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Yuvraj2172/myleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yuvraj2172/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Yuvraj2172/myleetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yuvraj2172/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Yuvraj2172/myleetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Yuvraj2172/myleetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-count-sub-islands](https://github.com/Yuvraj2172/myleetcode/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/Yuvraj2172/myleetcode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Yuvraj2172/myleetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yuvraj2172/myleetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Yuvraj2172/myleetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yuvraj2172/myleetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Yuvraj2172/myleetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Yuvraj2172/myleetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-count-sub-islands](https://github.com/Yuvraj2172/myleetcode/tree/master/2035-count-sub-islands) |
 | [2145-grid-game](https://github.com/Yuvraj2172/myleetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yuvraj2172/myleetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
