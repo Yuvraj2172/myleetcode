@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Yuvraj2172/myleetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Yuvraj2172/myleetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Yuvraj2172/myleetcode/tree/master/0664-strange-printer) |
+| [0796-rotate-string](https://github.com/Yuvraj2172/myleetcode/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/Yuvraj2172/myleetcode/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Yuvraj2172/myleetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Yuvraj2172/myleetcode/tree/master/0952-word-subsets) |
@@ -1053,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Yuvraj2172/myleetcode/tree/master/0796-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Yuvraj2172/myleetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Yuvraj2172/myleetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Yuvraj2172/myleetcode/tree/master/3474-lexicographically-smallest-generated-string) |
