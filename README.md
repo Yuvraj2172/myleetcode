@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Yuvraj2172/myleetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yuvraj2172/myleetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Yuvraj2172/myleetcode/tree/master/1923-sentence-similarity-iii) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yuvraj2172/myleetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Yuvraj2172/myleetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Yuvraj2172/myleetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Yuvraj2172/myleetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Yuvraj2172/myleetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Yuvraj2172/myleetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yuvraj2172/myleetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yuvraj2172/myleetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Yuvraj2172/myleetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Yuvraj2172/myleetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Yuvraj2172/myleetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yuvraj2172/myleetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Yuvraj2172/myleetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yuvraj2172/myleetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yuvraj2172/myleetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Yuvraj2172/myleetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Yuvraj2172/myleetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2163-kth-distinct-string-in-an-array) |
