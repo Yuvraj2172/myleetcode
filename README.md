@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yuvraj2172/myleetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Yuvraj2172/myleetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yuvraj2172/myleetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Yuvraj2172/myleetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Yuvraj2172/myleetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Yuvraj2172/myleetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
