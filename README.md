@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yuvraj2172/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2906-construct-product-matrix](https://github.com/Yuvraj2172/myleetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yuvraj2172/myleetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yuvraj2172/myleetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Yuvraj2172/myleetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Yuvraj2172/myleetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Yuvraj2172/myleetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yuvraj2172/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yuvraj2172/myleetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yuvraj2172/myleetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Yuvraj2172/myleetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -1131,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/Yuvraj2172/myleetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yuvraj2172/myleetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Geometry
 |  |
 | ------- |
