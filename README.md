@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Yuvraj2172/myleetcode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Yuvraj2172/myleetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Yuvraj2172/myleetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/Yuvraj2172/myleetcode/tree/master/2126-destroying-asteroids) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Yuvraj2172/myleetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Yuvraj2172/myleetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Yuvraj2172/myleetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Yuvraj2172/myleetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Yuvraj2172/myleetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvraj2172/myleetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2126-destroying-asteroids](https://github.com/Yuvraj2172/myleetcode/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Yuvraj2172/myleetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
