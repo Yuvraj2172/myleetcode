@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Yuvraj2172/myleetcode/tree/master/0022-generate-parentheses) |
 | [0165-compare-version-numbers](https://github.com/Yuvraj2172/myleetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Yuvraj2172/myleetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Yuvraj2172/myleetcode/tree/master/0179-largest-number) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Yuvraj2172/myleetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Yuvraj2172/myleetcode/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/Yuvraj2172/myleetcode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Yuvraj2172/myleetcode/tree/master/0679-24-game) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Yuvraj2172/myleetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Yuvraj2172/myleetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Yuvraj2172/myleetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvraj2172/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1140,4 +1143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Yuvraj2172/myleetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Yuvraj2172/myleetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
