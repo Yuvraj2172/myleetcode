@@ -3,8 +3,7 @@ class Solution:
         ans = [["#"] * n for i in range(m)]
 
         for j in range(n):
-            ans[0][j] = '.'
+            ans[m-1][j] = '.'
         for i in range(m):
-            ans[i][n-1] = '.'
-        print(ans)
+            ans[i][0] = '.'
         return [''.join(row) for row in ans]
